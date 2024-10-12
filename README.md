@@ -17,5 +17,5 @@ data
 
 ## Preview
 ![image](https://github.com/user-attachments/assets/ebeb0d57-e5bf-4466-ab64-dfe5260a0d3b)
-## after adjusting the date range
+## After adjusting the date range
 ![image](https://github.com/user-attachments/assets/c0e728cd-065a-4edc-a442-46e44c9c76a4)
